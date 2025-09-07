@@ -50,8 +50,10 @@ public class Main
         String[] state_d = {"1LA_D0", "1LD_D1"};
         String[] state_e = {"1RH_E0", "0LA_E1"};
         char current_state = 'A';
-        int calc_speed_ms = 0;
         boolean halt = false;
+        
+        // IMPORTANT: change the value below to change how fast the updates are
+        int calc_speed_ms = 50;
         
         // integer values..
         int iter = 0;
@@ -531,4 +533,5 @@ public class Main
  super inefficient and long and its super annoying to have
  to edit all of the casework when i want to add an update
  like adding more than 2 symbols but its cool to look at
+
 */
