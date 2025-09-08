@@ -28,16 +28,16 @@ public class Main
             String[] state_c = {"1RH_C0", "1LD_C1"};
             String[] state_d = {"1RD_D0", "0RA_D1"};
 
-            oops
+            oops (never halts)
             String[] state_a = {"1RB_A0", "1LB_A1"};
             String[] state_b = {"1LA_B0", "0LC_B1"};
             String[] state_c = {"1RH_C0", "1LD_C1"};
             String[] state_d = {"1RD_D0", "0LA_D1"};
 
-            super slow nuke
+            oops variation (never halts)
             String[] state_a = {"1RB_A0", "0LB_A1"};
             String[] state_b = {"1LA_B0", "0LC_B1"};
-            String[] state_c = {"XXX_C0", "1LD_C1"};
+            String[] state_c = {"XXH_C0", "1LD_C1"};
             String[] state_d = {"1RD_D0", "0RA_D1"};
 
          */
@@ -535,4 +535,5 @@ public class Main
  like adding more than 2 symbols but its cool to look at
 
 */
+
 
