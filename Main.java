@@ -3,7 +3,7 @@ public class Main
     public static void main(String[] args) {
         /*  redundancy final boss
             
-            v0.0.1 finished 09/05/2025
+            v0.0.1 finished 09/05/2025 by yonis mohamed
             change the 5 states below to simulate a turing machine (i could add more/less states but that'd take a bit too long)
 
             cool tables (X just means that it doesnt matter what you put there):
@@ -535,5 +535,6 @@ public class Main
  like adding more than 2 symbols but its cool to look at
 
 */
+
 
 
