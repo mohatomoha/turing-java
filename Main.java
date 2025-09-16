@@ -58,6 +58,8 @@ public class Main
         // integer values..
         int iter = 0;
         int pointer = 0;
+
+        // not an integer value..
         float start_time = System.nanoTime();
 
         System.out.println("STARTING TURING MACHINE.");
@@ -535,6 +537,7 @@ public class Main
  like adding more than 2 symbols but its cool to look at
 
 */
+
 
 
 
