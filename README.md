@@ -1,3 +1,4 @@
 this code runs entirely on the terminal
+neoturing java is the new program, it can run more than 47 million steps in a little more than 20 minutes
 
-might add symbols and user input, but it would definitely take a lot of time and would probably be harder to use as right now all that is needed is changing the variables
+Main.java is still a really cool program, however neoturing is much easier to config and utilizes more elegant OOP topics
